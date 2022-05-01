@@ -1,0 +1,10 @@
+{
+  "full_name": "Vusal D.",
+  "email": "vusal@iomete.com",
+  "github_username": "vusal-iom",
+  "project_name": "Sample Job",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "PySpark Boilerplate contains starting point of code to create to pyspark applications",
+  "pypi_username": "{{ cookiecutter.github_username }}",
+  "version": "0.1.0"
+}
